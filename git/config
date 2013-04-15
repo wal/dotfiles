@@ -1,0 +1,30 @@
+[user]
+	name = wal
+	email = walmc@amazon.com	
+[github]
+	user = wal
+	token = 2d0b815505128b0862b7332ea69084a2
+[core]
+	excludesfile = /Users/wal/.gitignore
+[color]
+	ui = auto
+
+[alias]
+  l = log --graph --decorate --pretty=format':%C(yellow)%h%Cblue%d%Creset %s %C(white) %an, %ar%Creset'
+  current-branch = !git symbolic-ref -q HEAD | sed -e 's|^refs/heads/||'
+  s = status
+[apply]
+  whitespace = warn
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  ui = true
+[help]
+  autocorrect = 1
+[status]
+  submodule = 1
+[push]
+  # Only push branches that have been set up to track a remote branch.
+  default = current
+

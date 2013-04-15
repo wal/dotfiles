@@ -1,0 +1,4 @@
+#!/bin/sh
+TZ=US/Pacific date +"PST: %I:%M %p %a %D"
+TZ=UTC date +"UTC/GMT: %I:%M %p %a %D"
+TZ=Europe/Dublin date +"DUB: %I:%M %p %a %D"

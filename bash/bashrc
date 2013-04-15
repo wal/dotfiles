@@ -1,0 +1,7 @@
+. ~/projects/wal/dotfiles/bash/env
+. ~/projects/wal/dotfiles/bash/config
+. ~/projects/wal/dotfiles/bash/functions
+. ~/projects/wal/dotfiles/bash/aliases
+. ~/projects/wal/dotfiles/bash/amazon
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" 

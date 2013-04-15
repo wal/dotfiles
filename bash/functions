@@ -1,0 +1,10 @@
+# Take - Create and CD into new directory
+function take {
+  mkdir $1
+  cd $1
+}
+
+
+function echoly {
+  echo $*
+}

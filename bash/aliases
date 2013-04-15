@@ -1,0 +1,18 @@
+alias tu='top -o cpu' 
+alias tm='top -o vsize'
+
+# alias management
+alias a_reload="source ~/projects/wal/dotfiles/bash/aliases"
+alias a_edit="emacs ~/projects/wal/dotfiles/bash/aliases && a_reload"
+
+# config management
+alias c_reload="source ~/projects/wal/dotfiles/bash/config"
+alias c_edit="emacs ~/projects/wal/dotfiles/bash/config && c_reload"
+
+# function management
+alias f_reload="source ~/projects/wal/dotfiles/bash/functions"
+alias f_edit="emacs ~/projects/wal/dotfiles/bash/functions && f_reload"
+
+# Git
+alias g='git status '
+

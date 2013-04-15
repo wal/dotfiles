@@ -1,0 +1,90 @@
+Emacs Tutorial - CTRL-H T
+C-H b - show key bindings
+
+C-X C-I - symbols navigation
+--C-S = forward through the options
+--C-R reverse
+
+Navigation
+C-X b buffer switch
+-- C-X b Enter .. brings you to previous buffer
+C-X C-B Buffer list
+-- can delete buffers (d) commit with x
+
+C-X C-F Find File
+C-X f Recent Files
+C-X p find file by reference
+Create new files with C-X C-F
+
+
+sending files to emacs to edit
+M-x server-start
+then emacsclient --no-wait
+
+Emacs - Simplenote integration ?
+
+
+Multiple Buffers
+--
+C-X 3 (split screen)
+C-X o jump between buffers
+
+
+Help
+C-h k followed by a key sequence will tell you about that sequence
+C-h f help for function (C-h f ruby-mode)
+
+
+Settings
+C-h v current value for variable
+C-h a appros help search
+
+C-H i = emacs info reader
+
+Kill Ring
+-
+C-W - Kill marked text
+C-Y - Yank (put back current kill ring)
+M-y traverse the kill ring
+
+C-k kill all text to end of line
+M-w copy region
+
+Undo
+--
+C-_
+
+CUA-MODE
+- enable with M-x cua-mode
+M ENTER to enter it after marking text
+then usual commands will apply to every selected line
+
+
+Commenting
+--
+Current region M-;
+
+Code Completion
+--
+Hippy Expand ? - benifits from more open buffers as possible
+
+
+Indent
+--
+CM-/
+M-C n
+
+Revert Buffer
+--
+C-C r
+Follow Mode
+
+- Show the 1 file in multiple buffers
+
+
+Ruby
+--
+C-c C-S start IRB
+M-p M-n for history
+C-c C-r send to ruby!
+C-h r Launch RI for docs

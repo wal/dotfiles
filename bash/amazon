@@ -1,0 +1,28 @@
+# Amazon SDE Tools Config
+
+#Adding SDETools to $PATH
+export PATH=$PATH:/apollo/env/SDETools/bin
+
+#Adding Eclipse bin to $PATH
+export PATH=/apollo/env/eclipse-3.7/bin:$PATH
+
+#Adding envImprovement to $PATH
+export PATH=$PATH:/apollo/env/envImprovement/bin
+#Configuration needed by perforce to function correctly in any directory 
+export P4CONFIG=.p4config
+#Make SDETools use a simplified directory structure for organizing source code.  
+export BRAZIL_WORKSPACE_DEFAULT_LAYOUT=short
+
+export PATH=/apollo/env/Emacs23/bin:$PATH
+
+# Aliases
+alias bb='brazil-build'
+alias bc='brazil-build clean'
+alias bw='brazil workspace'
+alias br='brazil-runtime-exec'
+alias bpkg='brazil-build apollo-pkg'
+alias act='sudo /apollo/bin/runCommand -a Activate -e '
+alias dact='sudo /apollo/bin/runCommand -a Deactivate -e '
+
+
+alias ssh='ssh-nirvana'
