@@ -16,3 +16,5 @@ alias f_edit="emacs ~/projects/wal/dotfiles/bash/functions && f_reload"
 # Git
 alias g='git status '
 
+# Ctags generation
+alias retag='ctags -e -a -R --languages=Ruby --exclude=.git --exclude=log --exclude=tmp .'
