@@ -1,4 +1,5 @@
-(require 'erc)
+(require 'magit)
+
 (add-to-list 'load-path "~/.emacs.d/vendor")
 
 ;; XML file handling
@@ -22,11 +23,11 @@
 (setq theme-file "~/.emacs.d/wal/theme.el")
 (when (file-exists-p theme-file) (load theme-file))
 
-(vendor 'find-things-fast)
-(vendor 'gist)
+
+(require 'ido)
+(ido-mode t)
 (vendor 'ruby-mode)
 (vendor 'ruby-electric)
-
 (setq auto-mode-alist  (cons '(".rb$" . ruby-mode) auto-mode-alist))
 
 (ruby-electric-mode t)
