@@ -8,3 +8,11 @@ function take {
 function echoly {
   echo $*
 }
+
+function dotfile_reload {
+  pushd .
+  cd ~/projects/wal/dotfiles
+  git pull
+  popd
+  source ~/.bash_profile
+}
