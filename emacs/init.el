@@ -1,6 +1,5 @@
-(require 'magit)
-
 (add-to-list 'load-path "~/.emacs.d/vendor")
+(add-to-list 'load-path "/usr/local/share/emacs/site-lisp/")
 
 ;; XML file handling
 (load "~/.emacs.d/vendor/nxml-mode/rng-auto.el")
@@ -25,6 +24,8 @@
 
 
 (require 'ido)
+(require 'magit)
+
 (ido-mode t)
 (vendor 'ruby-mode)
 (vendor 'ruby-electric)
