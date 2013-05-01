@@ -5,9 +5,5 @@ source ~/projects/wal/dotfiles/bash/completions
 source ~/projects/wal/dotfiles/bash/config
 source ~/projects/wal/dotfiles/bash/rvm
 
-if [ -f ~/.bashrc ]; then
-  . ~/.bashrc
-fi
-
 # Enable RVM
 [[ -s $HOME/.rvm/scripts/rvm ]] && source $HOME/.rvm/scripts/rvm
