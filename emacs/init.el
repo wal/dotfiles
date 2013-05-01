@@ -32,3 +32,5 @@
 (setq auto-mode-alist  (cons '(".rb$" . ruby-mode) auto-mode-alist))
 
 (ruby-electric-mode t)
+
+(find-file "~/Desktop/Dropbox/todo.txt")
