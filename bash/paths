@@ -1,2 +1,2 @@
 export PATH="~/bin:/usr/local/bin:/usr/local/sbin:$PATH"
-
+export PATH=:$PATH:~/projects/wal/dotfiles/bin
