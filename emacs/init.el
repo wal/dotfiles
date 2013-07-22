@@ -29,6 +29,7 @@
 (ido-mode t)
 (vendor 'ruby-mode)
 (vendor 'ruby-electric)
+(vendor 'js2-mode)
 (setq auto-mode-alist  (cons '(".rb$" . ruby-mode) auto-mode-alist))
 
 (ruby-electric-mode t)
