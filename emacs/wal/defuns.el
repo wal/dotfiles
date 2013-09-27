@@ -48,3 +48,10 @@ BEG and END (region to sort)."
      ((file-exists-p suffix) (require library)))
     (when (file-exists-p (concat defunkt ".el"))
       (load defunkt))))
+
+(defun json-format ()
+(interactive)
+(save-excursion
+(shell-command-on-region (mark) (point) "python -m json.tool" (buffer-name) t)
+)
+)

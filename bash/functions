@@ -16,3 +16,8 @@ function dotfile_reload {
   popd
   source ~/.bash_profile
 }
+
+function set_github_user_config {
+  git config user.email walter.mcconnell@gmail.com
+  git config user.name "Wal"
+}
