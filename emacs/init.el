@@ -35,3 +35,6 @@
 (ruby-electric-mode t)
 
 (find-file "~/Desktop/Dropbox/todo.txt")
+
+
+(load "~/.emacs.d/vendor/ess-13.09/lisp/ess-site")
