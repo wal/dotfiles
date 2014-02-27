@@ -30,11 +30,9 @@
 (vendor 'ruby-mode)
 (vendor 'ruby-electric)
 (vendor 'js2-mode)
+(vendor 'dash-at-point)
 (setq auto-mode-alist  (cons '(".rb$" . ruby-mode) auto-mode-alist))
 
 (ruby-electric-mode t)
 
 (find-file "~/Desktop/Dropbox/todo.txt")
-
-
-(load "~/.emacs.d/vendor/ess-13.09/lisp/ess-site")
