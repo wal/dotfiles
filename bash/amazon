@@ -25,4 +25,3 @@ alias act='sudo /apollo/bin/runCommand -a Activate -e '
 alias dact='sudo /apollo/bin/runCommand -a Deactivate -e '
 
 
-alias ssh='ssh-nirvana'
