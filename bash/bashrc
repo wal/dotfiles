@@ -2,6 +2,9 @@
 . ~/projects/wal/dotfiles/bash/config
 . ~/projects/wal/dotfiles/bash/functions
 . ~/projects/wal/dotfiles/bash/aliases
-. ~/projects/wal/dotfiles/bash/amazon
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" 
+
+. ~/projects/magicmonty/bash-git-prompt/gitprompt.sh
+
+. ~/projects/wal/dotfiles/amazon/source_me
