@@ -39,3 +39,4 @@
 (ruby-electric-mode t)
 
 (find-file "~/Desktop/Dropbox/todo.txt")
+(put 'upcase-region 'disabled nil)

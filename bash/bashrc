@@ -1,5 +1,4 @@
 . ~/projects/wal/dotfiles/bash/env
-. ~/projects/wal/dotfiles/bash/config
 . ~/projects/wal/dotfiles/bash/functions
 . ~/projects/wal/dotfiles/bash/aliases
 
