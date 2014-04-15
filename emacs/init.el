@@ -1,6 +1,11 @@
 (add-to-list 'load-path "~/.emacs.d/vendor")
 (add-to-list 'load-path "/usr/local/share/emacs/site-lisp/")
 
+
+;; ESS
+(add-to-list 'load-path "~/projects/emacs-ess/ESS/lisp/")
+(load "ess-site")
+
 ;; XML file handling
 (load "~/.emacs.d/vendor/nxml-mode/rng-auto.el")
 (setq auto-mode-alist
