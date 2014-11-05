@@ -39,6 +39,7 @@
 (vendor 'git-commit-mode)
 (vendor 'magit)
 (vendor 'dash-at-point)
+(vendor 'find-things-fast)
 (setq auto-mode-alist  (cons '(".rb$" . ruby-mode) auto-mode-alist))
 
 (ruby-electric-mode t)
