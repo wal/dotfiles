@@ -1,0 +1,5 @@
+#!/bin/sh
+
+set -x	
+
+ffmpeg -f concat -i $1 -c copy $2
