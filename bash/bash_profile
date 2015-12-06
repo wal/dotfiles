@@ -3,8 +3,5 @@ source ~/projects/wal/dotfiles/bash/aliases
 source ~/projects/wal/dotfiles/bash/functions
 source ~/projects/wal/dotfiles/bash/completions
 source ~/projects/wal/dotfiles/bash/prompt
-source ~/projects/wal/dotfiles/bash/rvm
 source ~/projects/wal/dotfiles/bash/aws
 
-# Enable RVM
-[[ -s $HOME/.rvm/scripts/rvm ]] && source $HOME/.rvm/scripts/rvm
