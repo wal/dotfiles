@@ -1,7 +1,6 @@
 (add-to-list 'load-path "~/.emacs.d/vendor")
 (add-to-list 'load-path "/usr/local/share/emacs/site-lisp/")
 
-
 ;; ESS
 (add-to-list 'load-path "~/projects/emacs-ess/ESS/lisp/")
 (load "ess-site")
@@ -29,20 +28,25 @@
 
 
 (require 'ido)
-(require 'magit)
 
 (ido-mode t)
 (vendor 'ruby-mode)
 (vendor 'ruby-electric)
 (vendor 'js2-mode)
 (vendor 'dash-at-point)
-(vendor 'git-commit-mode)
-(vendor 'magit)
 (vendor 'dash-at-point)
 (vendor 'find-things-fast)
+(vendor 'neotree)
+(vendor 'php-mode)
 (setq auto-mode-alist  (cons '(".rb$" . ruby-mode) auto-mode-alist))
 
 (ruby-electric-mode t)
 
 (find-file "~/Desktop/Dropbox/todo.txt")
 (put 'upcase-region 'disabled nil)
+
+(load "journal")
+(if (file-directory-p "~/Desktop/Dropbox/Journal/")
+    (setq-default journal-dir "~/Desktop/Dropbox/Journal/"))
+
+(global-set-key [f8] 'neotree-toggle)

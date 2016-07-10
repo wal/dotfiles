@@ -1,6 +1,6 @@
 [user]
 	name = wal
-	email = walter.mcconnell@gmail.com	
+	email = wal@kitmanlabs.com
 [github]
 	user = wal
 	token = 2d0b815505128b0862b7332ea69084a2
@@ -28,3 +28,14 @@
   # Only push branches that have been set up to track a remote branch.
   default = current
 
+[filter "media"]
+	clean = git media clean %f
+	smudge = git media smudge %f
+	required = true
+[filter "lfs"]
+	clean = git lfs clean %f
+	smudge = git lfs smudge %f
+	required = true
+
+[ghi]
+	token = !security find-internet-password -a wal -s github.com -l 'ghi token' -w

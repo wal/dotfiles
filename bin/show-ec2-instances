@@ -1,0 +1,2 @@
+aws ec2 describe-instances --query 'Reservations[].Instances[].[Tags[?Key==`Name`].Value[],PublicIpAddress]' --output text | sed '$!N;s/\n/ /'
+

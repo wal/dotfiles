@@ -1,0 +1,3 @@
+#!/bin/sh
+set -x
+for f in *\ *; do mv "$f" "${f// /_}"; done

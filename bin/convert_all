@@ -1,0 +1,10 @@
+#!/bin/sh
+set -x
+
+ls | while read -r FILE
+do
+    mv -v "$FILE" `echo $FILE | tr ' ' '_' `
+done
+
+for i in *; do echo $i; ffmpeg -i $i -an -c:v libx264  -strict experimental -vf scale='960:540' "`basename $i .mov`.mp4"; done
+

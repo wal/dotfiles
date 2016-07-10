@@ -1,5 +1,6 @@
-#!/bin/sh
+pat=$1
+rm fileslist.txt
+rm output.$pat
+for f in `ls *.$pat | sort -t _ -k 2 -g`; do echo "file '$f'" >> fileslist.txt; done
+ffmpeg -f concat -i fileslist.txt -c copy output.$pat
 
-set -x	
-
-ffmpeg -f concat -i $1 -c copy $2

@@ -1,0 +1,2 @@
+for i in *; do cd "$i"; ffmpeg_concat $1; cd ..; done
+

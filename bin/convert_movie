@@ -1,0 +1,4 @@
+#!/bin/sh
+set -x
+
+ffmpeg -i $1 -c:v libx264 -an -strict experimental -vf scale='960:540' $1.MP4;

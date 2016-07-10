@@ -3,3 +3,13 @@
 . ~/projects/wal/dotfiles/bash/aliases
 
 . ~/projects/magicmonty/bash-git-prompt/gitprompt.sh
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/wal/.travis/travis.sh ] && source /Users/wal/.travis/travis.sh
+
+export PATH="/usr/local/heroku/bin:$PATH"
+
+export EDITOR=emacs
+

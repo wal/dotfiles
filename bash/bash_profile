@@ -5,3 +5,7 @@ source ~/projects/wal/dotfiles/bash/completions
 source ~/projects/wal/dotfiles/bash/prompt
 source ~/projects/wal/dotfiles/bash/aws
 
+eval "$(rbenv init -)"
+. .bashrc
+
+export PATH="/usr/local/bin:/usr/local/sbin:$PATH"

@@ -1,0 +1,385 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/422/" . "stats/")
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/424/" . "stats/")
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/431/" . "stats/")
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/428/" . "stats/")
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/429/" . "stats/")
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/" . "430/")
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/430/" . "stats/")
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/" . "competitions/")
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/" . "data/")
+ ("/Users/waltermcconnell/projects/KitmanLabs/medinah/public/" . "javascripts/")
+ ("/Users/waltermcconnell/Desktop/" . "Windows 10/")
+ ("/Users/waltermcconnell/projects/wal/" . "fih_hockey_stats/")
+ ("/Users/waltermcconnell/Dropbox/" . "downloads/")
+ ("/Users/waltermcconnell/projects/KitmanLabs/kitman-athlete-app-api/" . "app/")
+ ("/Users/waltermcconnell/projects/KitmanLabs/kitman-athlete-app-api/app/" . "controllers/")
+ ("/Users/waltermcconnell/projects/KitmanLabs/" . "medinah/")
+ ("/Users/waltermcconnell/projects/" . "wal/")
+ ("/Users/waltermcconnell/" . "projects/")
+ ("/Users/wal/projects/KitmanLabs/demo_account_import/" . "data/")
+ ("/Users/wal/Desktop/email_screes/ardit/Kitman Labs/RugbyTeamGenerator/app/src/" . "test/")
+ ("/Users/wal/Desktop/email_screes/ardit/" . "Kitman Labs/")
+ ("/Users/wal/Desktop/email_screes/cesar_marrades/" . "KitmanLabs/")
+ ("/Users/wal/Desktop/email_screes/" . "ardit/")
+ ("/Users/wal/projects/KitmanLabs/Sports-Science-Dashboard-Ember/app/templates/" . "components/")
+ ("/Users/wal/www/kitman-profiler/app/views/" . "athletes/")
+ ("/Users/wal/www/kitman-profiler/app/" . "views/")
+ ("/Users/wal/www/kitman-profiler/" . "app/")
+ ("/Users/wal/www/" . "kitman-profiler/")
+ ("/usr/local/etc/php/" . "5.6/")
+ ("/usr/local/etc/" . "php/")
+ ("/usr/local/" . "etc/")
+ ("/usr/" . "local/")
+ ("/Users/wal/projects/KitmanLabs/Sports-Science-Dashboard-Ember/app/controllers/" . "association/")
+ ("/Users/wal/projects/KitmanLabs/Sports-Science-Dashboard-Ember/app/" . "templates/")
+ ("/Users/wal/projects/KitmanLabs/fenway/app/" . "lib/")
+ ("/Users/wal/projects/wal/resonate_ralis_4/app/controllers/" . "admin/")
+ ("/Users/wal/projects/wal/resonate/" . "config/")
+ ("/Users/wal/projects/wal/resonate_ralis_4/config/" . "initializers/")
+ ("/Users/wal/projects/wal/resonate_ralis_4/app/assets/" . "stylesheets/")
+ ("/Users/wal/projects/wal/resonate_ralis_4/app/" . "assets/")
+ ("/Users/wal/projects/wal/resonate_ralis_4/" . "app/")
+ ("/Users/wal/.emacs.d/" . "vendor/")
+ ("/Users/wal/projects/wal/backfour_team/theme/PixelAdmin-1.3.0/" . "html/")
+ ("/Users/wal/projects/wal/backfour_team/theme/" . "PixelAdmin-1.3.0/")
+ ("/Users/wal/projects/wal/backfour_team/" . "theme/")
+ ("/Users/wal/projects/KitmanLabs/fenway/spec/fixtures/files/" . "pitch_fx/")
+ ("/Users/wal/projects/KitmanLabs/fenway/spec/fixtures/" . "files/")
+ ("/Users/wal/projects/KitmanLabs/fenway/spec/" . "fixtures/")
+ ("/Users/wal/projects/wal/catapult_parser/" . "data/")
+ ("/Users/wal/projects/wal/movie_breaker/" . "lib/")
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/" . "migrations/")
+ ("/Users/wal/projects/aws/" . "aws-sdk-ruby/")
+ ("/Users/wal/Desktop/Dropbox/Journal/2015/" . "06/")
+ ("/Users/wal/projects/jnunemaker/" . "httparty/")
+ ("/Users/wal/Desktop/Dropbox/Journal/" . "2015/")
+ ("/Users/wal/Desktop/Dropbox/" . "Journal/")
+ ("/Users/wal/projects/KitmanLabs/kitman-athlete-app-api/config/" . "deploy/")
+ ("/Users/wal/projects/wal/dotfiles/emacs/" . "vendor/")
+ ("/Users/wal/projects/wal/dotfiles/" . "bin/")
+ ("/Users/wal/projects/wal/scaffold_test/" . "app/")
+ ("/Users/wal/projects/wal/scaffold_test/app/" . "controllers/")
+ ("/Users/wal/projects/KitmanLabs/kitman-athlete-app-api/app/" . "controllers/")
+ ("/Users/wal/tmp/fenway/" . "spec/")
+ ("/Users/wal/projects/KitmanLabs/kitman-misc/" . "analyser-charts/")
+ ("/Users/wal/projects/KitmanLabs/sherlock/app/" . "models/")
+ ("/Users/wal/projects/KitmanLabs/sherlock/" . "app/")
+ ("/Users/wal/projects/KitmanLabs/fenway/" . "app/")
+ ("/Users/wal/projects/KitmanLabs/jose/" . "github-issue-counter/")
+ ("/Users/wal/tmp/page/" . "html/")
+ ("/Users/wal/tmp/" . "d1/")
+ ("/Users/wal/projects/SciRuby/" . "statsample-timeseries/")
+ ("/" . "tmp/")
+ ("/Users/wal/Desktop/nation-camp-ban10012015/afternoon/" . "smaller_matches/")
+ ("/Users/wal/Desktop/nation-camp-ban10012015/" . "afternoon/")
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler-dev/shared/" . "profiler/")
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/" . "injuries/")
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/" . "controllers/")
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler-dev/shared/profiler/www/app/views/" . "notes/")
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler-dev/shared/profiler/www/app/" . "controllers/")
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler-dev/shared/profiler/www/" . "migrations/")
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler-dev/shared/profiler/" . "www/")
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler-dev/" . "shared/")
+ ("/Users/wal/projects/mozilla/metrics-graphics/examples/" . "data/")
+ ("/Users/wal/projects/mozilla/metrics-graphics/" . "examples/")
+ ("/Users/wal/projects/mozilla/" . "metrics-graphics/")
+ ("/Users/wal/projects/KitmanLabs/gps/csv/" . "Connacht 19.12/")
+ ("/Users/wal/projects/KitmanLabs/gps/" . "csv/")
+ ("/Users/wal/projects/wal/R-Code/" . "time_series/")
+ ("/Users/wal/projects/etsy/" . "statsd/")
+ ("/Users/wal/Desktop/testcapture.GBpkg/" . "MOVIE DATA folder/")
+ ("/Users/wal/projects/KitmanLabs/kitman-athlete-app-api/spec/" . "models/")
+ ("/Users/wal/projects/KitmanLabs/kitman-analyser/" . "RiskAnalyserCode/")
+ ("/Users/wal/projects/wal/dotfiles/emacs/vendor/" . "git-modes/")
+ ("/tmp/" . "videos/")
+ ("/Users/wal/projects/KitmanLabs/kitman-athlete-app-api/" . "config/")
+ ("/Users/wal/Desktop/deployment/" . "production/")
+ ("/Users/wal/Desktop/" . "email_screes/")
+ ("/Users/wal/projects/wal/cloudwatch_dashboard/public/" . "css/")
+ ("/Users/wal/projects/wal/cloudwatch_dashboard/" . "views/")
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler-api/config/" . "deploy/")
+ ("/Users/" . "waltermcconnell/")
+ ("/Users/wal/projects/wal/" . "resonate_ralis_4/")
+ ("/Users/wal/projects/KitmanLabs/" . "kitman-profiler/")
+ ("/Users/wal/projects/" . "KitmanLabs/")
+ ("/Users/wal/" . "projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/430/stats/"
+ "/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/422/stats/"
+ "/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/424/stats/"
+ "/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/431/stats/"
+ "/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/428/stats/"
+ "/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/429/stats/"
+ "/Users/waltermcconnell/Downloads/"
+ "/Users/waltermcconnell/tmp/"
+ "/Users/waltermcconnell/projects/KitmanLabs/medinah/public/javascripts/"
+ "/Users/waltermcconnell/Desktop/"
+ "/Users/waltermcconnell/Dropbox/downloads/"
+ "/Users/waltermcconnell/Desktop/wal-DM/"
+ "/Users/waltermcconnell/projects/wal/fenway_stats/"
+ "/Users/waltermcconnell/Desktop/Dropbox/"
+ "/Users/waltermcconnell/projects/KitmanLabs/kitman-athlete-app-api/app/controllers/"
+ "/Users/waltermcconnell/projects/KitmanLabs/kitman-athlete-app-api/app/models/"
+ "/Users/waltermcconnell/projects/KitmanLabs/kitman-athlete-app-api/"
+ "/Users/wal/Desktop/Dropbox/"
+ "/Users/wal/projects/KitmanLabs/kitman-profiler/app/controllers/"
+ "/Users/wal/projects/KitmanLabs/kitman-profiler/app/models/"
+ "/Users/wal/Desktop/"
+ "/Users/wal/Downloads/"
+ "/Users/wal/projects/KitmanLabs/kitman-profiler/app/libraries/"
+ "/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/injuries/"
+ "/Users/wal/.emacs.d/"
+ "/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/athletes/"
+ "/Users/wal/projects/KitmanLabs/kitman-profiler/app/helpers/"
+ "/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/application/"
+ "/Users/wal/tmp/"
+ "/Users/wal/projects/KitmanLabs/demo_account_import/data/"
+ "/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/analysis/"
+ "/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/"
+ "/Users/wal/.emacs.d/vendor/"
+ "/Users/wal/medinah_config/"
+ "/Users/wal/tmp/d1/"
+ "/Users/wal/projects/KitmanLabs/Sports-Science-Dashboard-Ember/app/templates/components/"
+ "/Users/wal/www/kitman-profiler/app/views/athletes/"
+ "/usr/local/etc/php/5.6/"
+ "/Users/wal/projects/KitmanLabs/Sports-Science-Dashboard-Ember/app/controllers/"
+ "/Users/wal/projects/KitmanLabs/Sports-Science-Dashboard-Ember/app/controllers/squads/"
+ "/Users/wal/projects/KitmanLabs/Sports-Science-Dashboard-Ember/app/templates/"
+ "/Users/wal/projects/KitmanLabs/fenway/app/lib/"
+ "/Users/wal/projects/wal/resonate_ralis_4/app/assets/stylesheets/"
+ "/Users/wal/projects/wal/resonate_ralis_4/"
+ "/Users/wal/projects/wal/resonate/config/"
+ "/Users/wal/projects/wal/resonate_ralis_4/config/"
+ "/Users/wal/projects/wal/resonate_ralis_4/config/initializers/"
+ "/Users/wal/projects/wal/resonate_ralis_4/app/models/"
+ "/Users/wal/Desktop/Dropbox/Journal/2015/06/"
+ "/Users/wal/projects/wal/backfour_team/theme/PixelAdmin-1.3.0/html/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "1.json"
+ "7.json"
+ "Nutrition record template draft - Kitman V2 Test csv.csv"
+ "opensource.csv"
+ "application.js"
+ "bucks_variables.csv"
+ "MOCK_DATA.csv"
+ "ctr-report-p-s5-live-7416.csv"
+ "secrets.yml"
+ "fenway.json"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/430/stats/" (22376 12967 0 0) "7.json" "6.json" "5.json" "4.json" "3.json" "2.json" "1.json" ".#7.json" ".#1.json" "#7.json#" "#1.json#" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/422/stats/" (22375 3805 0 0) "7.json" "6.json" "5.json" "4.json" "3.json" "2.json" "1.json" ".#7.json" ".#1.json" "#7.json#" "#1.json#" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/422/" (22374 61305 0 0) "stats/" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/424/stats/" (22375 3675 0 0) "7.json" "6.json" "5.json" "4.json" "3.json" "2.json" "1.json" ".#1.json" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/424/" (22374 61307 0 0) "stats/" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/431/stats/" (22375 3332 0 0) "7.json" "6.json" "5.json" "4.json" "3.json" "2.json" "1.json" ".#1.json" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/431/" (22374 61312 0 0) "stats/" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/428/stats/" (22374 61310 0 0) "7.json" "6.json" "5.json" "4.json" "3.json" "2.json" "1.json" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/428/" (22374 61310 0 0) "stats/" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/429/stats/" (22375 3284 0 0) "7.json" "6.json" "5.json" "4.json" "3.json" "2.json" "1.json" ".#1.json" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/429/" (22374 61310 0 0) "stats/" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/430/" (22374 61311 0 0) "stats/" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/competitions/" (22374 61667 0 0) "99/" "98/" "97/" "96/" "95/" "94/" "93/" "92/" "91/" "90/" "9/" "89/" "88/" "87/" "86/" "85/" "84/" "83/" "82/" "81/" "80/" "8/" "79/" "78/" "77/" "76/" "75/" "74/" "73/" "72/" "71/" "70/" "7/" "69/" "68/" "67/" "66/" "65/" "64/" "63/" "62/" "61/" "60/" "6/" "59/" "58/" "57/" "56/" "55/" "54/" "53/" "52/" "51/" "50/" "5/" "49/" "48/" "47/" "46/" "45/" "44/" "431/" "430/" "43/" "429/" "428/" "427/" "426/" "425/" "424/" "423/" "422/" "421/" "420/" "42/" "419/" "418/" "417/" "416/" "415/" "414/" "413/" "412/" "411/" "410/" "41/" "409/" "408/" "407/" "406/" "405/" "404/" "403/" "402/" "401/" "400/" "40/" "4/" "399/" "398/" "397/" "396/" "395/" "394/" "393/" "392/" "391/" "390/" "39/" "389/" "388/" "387/" "386/" "385/" "384/" "383/" "382/" "381/" "380/" "38/" "379/" "378/" "377/" "376/" "375/" "374/" "373/" "372/" "371/" "370/" "37/" "369/" "368/" "367/" "366/" "365/" "364/" "363/" "362/" "361/" "360/" "36/" "359/" "358/" "357/" "356/" "355/" "354/" "353/" "352/" "351/" "350/" "35/" "349/" "348/" "347/" "346/" "345/" "344/" "343/" "342/" "341/" "340/" "34/" "339/" "338/" "337/" "336/" "335/" "334/" "333/" "332/" "331/" "330/" "33/" "329/" "328/" "327/" "326/" "325/" "324/" "323/" "322/" "321/" "320/" "32/" "319/" "318/" "317/" "316/" "315/" "314/" "313/" "312/" "311/" "310/" "31/" "309/" "308/" "307/" "306/" "305/" "304/" "303/" "302/" "301/" "300/" "30/" "3/" "299/" "298/" "297/" "296/" "295/" "294/" "293/" "292/" "291/" "290/" "29/" "289/" "288/" "287/" "286/" "285/" "284/" "283/" "282/" "281/" "280/" "28/" "279/" "278/" "277/" "276/" "275/" "274/" "273/" "272/" "271/" "270/" "27/" "269/" "268/" "267/" "266/" "265/" "264/" "263/" "262/" "261/" "260/" "26/" "259/" "258/" "257/" "256/" "255/" "254/" "253/" "252/" "251/" "250/" "25/" "249/" "248/" "247/" "246/" "245/" "244/" "243/" "242/" "241/" "240/" "24/" "239/" "238/" "237/" "236/" "235/" "234/" "233/" "232/" "231/" "230/" "23/" "229/" "228/" "227/" "226/" "225/" "224/" "223/" "222/" "221/" "220/" "22/" "219/" "218/" "217/" "216/" "215/" "214/" "213/" "212/" "211/" "210/" "21/" "209/" "208/" "207/" "206/" "205/" "204/" "203/" "202/" "201/" "200/" "20/" "2/" "199/" "198/" "197/" "196/" "195/" "194/" "193/" "192/" "191/" "190/" "19/" "189/" "188/" "187/" "186/" "185/" "184/" "183/" "182/" "181/" "180/" "18/" "179/" "178/" "177/" "176/" "175/" "174/" "173/" "172/" "171/" "170/" "17/" "169/" "168/" "167/" "166/" "165/" "164/" "163/" "162/" "161/" "160/" "16/" "159/" "158/" "157/" "156/" "155/" "154/" "153/" "152/" "151/" "150/" "15/" "149/" "148/" "147/" "146/" "145/" "144/" "143/" "142/" "141/" "140/" "14/" "139/" "138/" "137/" "136/" "135/" "134/" "133/" "132/" "131/" "130/" "13/" "129/" "128/" "127/" "126/" "125/" "124/" "123/" "122/" "121/" "120/" "12/" "119/" "118/" "117/" "116/" "115/" "114/" "113/" "112/" "111/" "110/" "11/" "109/" "108/" "107/" "106/" "105/" "104/" "103/" "102/" "101/" "100/" "10/" "1/" ".DS_Store" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/data/" (22374 60832 0 0) "competitions/" ".DS_Store" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fih_hockey_stats/" (22374 61559 0 0) "Gemfile.lock" "Gemfile" "download_stats.rb" "data/" ".idea/" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/" (22374 59554 0 0) "wal.github.io/" "wal.github.com/" "untitled/" "test_site/" "tag_stats_live/" "sydvicious/" "subs_maker.zip" "subs_maker/" "stonecuttersgolf/" "sportsode_stats/" "smarter_csv_tests/" "smarter_csv/" "scaffold_test/" "resonateOTHER/" "resonate_ralis_4/" "resonate/" "rails_test/" "R-Code/" "pitchfx/" "pitch_fx_parser/" "pitch_fx_downloader/" "mysql2postgres/" "movie_breaker/" "mock_twitter/" "mailer/" "ireland_match_report/" "fitness/" "fih_hockey_stats/" "fenway_stats/" "endline_elite/" "endline/" "dotfiles/" "cloudwatch_graphite/" "cloudwatch_dashboard/" "cloudwatch_csv/" "clontarfhc/" "catapult_parser/" "backfour-team/" "backfour/" "aws-sdk-ruby/" "asyouwish/" ".idea/" ".DS_Store" "../" "./")
+
+ ("/Users/waltermcconnell/" (22374 59726 0 0) "tmp/" "Public/" "projects/" "Pictures/" "Music/" "Movies/" "Library/" "Dropbox/" "Downloads/" "Documents/" "desktop              " "Desktop/" "bin/" "Applications/" ".viminfo" ".vim/" ".v8flags.4.6.85.31.waltermcconnell.json" ".Trash/" ".subversion/" ".ssh/" ".RubyMine80/" ".rstudio-desktop/" ".Rhistory" ".rbenv/" ".R/" ".qppwaibeyda" ".pry_history" ".npm/" ".netrc" ".mysql_history" ".local/" ".lesshst" ".heroku/" ".guard_history" ".gitconfig" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".cups/" ".config/" ".composer/" ".CFUserTextEncoding" ".cache/" ".bundle/" ".bash_sessions/" ".bash_profile" ".bash_history" ".aws/" ".atom/" "../" "./")
+
+ ("/Users/waltermcconnell/Desktop/" (22374 58166 0 0) "videos/" "to_sort/" "Github Repo Review.xlsx" "Dropbox/" "Bucks GPS/" ".hfdbtepjyf" ".DS_Store" "../" "./")
+
+ ("/Users/waltermcconnell/Downloads/" (22361 13629 0 0) "~$Olympic Year Testing Overview.xlsx" "wal.jpg" "Wal McConnell - 5 Coach HME Beltpac System - 04192016_V1.pdf" "Wal McConnell - 5 Coach HME All-in-One System - 04192016_V2.pdf" "Wal McConnell - 5 Coach HME All-in-One System - 04192016_V2 (1).pdf" "Wal McConnell - 5 Coach HME (2)All-in-One (2) Beltpac- 04192016_V3.pdf" "user tag.svg" "TYRQ11363.pdf" "test2.csv" "test.csv" "stefi.jpg" "steffi.jpg" "steffi - visual design.pdf" "status_reports_2016-04-25T10-23-06+00-00.csv" "Squad Session 7-3-16.csv" "Slack for iOS Upload.png.jpeg" "Slack for iOS Upload.mp4" "sequel-pro-1.1.0.1.dmg" "Screen Shot 2016-03-16 at 09.19.28.png" "Screen Shot 2016-03-10 at 11.29.51.png" "Screen Shot 2016-02-15 at 10.08.58.png" "RIO PREP 2016.xlsx" "RIO PREP 2016 (1).xlsx" "regular_text.PNG" "Quote_125209-2.pdf" "per_athlete.m4v" "orioles.csv" "Olympic Year Testing Overview.xlsx" "Nutrition record template draft - Kitman V2 Test csv.csv" "mock_tournament.png" "MOCK_DATA.csv" "M0G7YXF1EE.txt" "leroy_standard_deviations.gif" "Kitman-BucksTesting.csv" "Kitman Testing Database.csv" "Kitman Testing Database Milwaukee Bucks 2016.xlsx" "Ireland v Scotland Export Kitman v2.csv" "Ireland v France Kitman Export v2.csv" "Ireland v France Kitman Export v2 (1).csv" "index.html" "IMG_2690.JPG" "IMG_2690 (1).JPG" "IMG_2688.JPG" "IMG_2688 (1).JPG" "IMG_2687.JPG" "IMG_2687 (1).JPG" "IMG_2686.JPG" "IMG_2686 (1).JPG" "IMG_2684.JPG" "IMG_2684 (1).JPG" "IMG_1234.m4v.mov" "IMG_1232.m4v.mov" "IMG_1008.MOV" "IMG_0753.PNG" "image.jpeg" "Happy Birthday Susan.mp4" "GhostEnabledCloudAccess.docx" "GB 050416 M2 PLayer Codes.xml" "fade5ddb2c132b736566ac7e551940b6.mov" "fade5ddb2c132b736566ac7e551940b6 (1).mov" "f88e6e10b3d79bb9264e9b98893a1db6.mov" "envdoc_v1_print.pdf" "England Game 26-2-16 Kitman Export v2.csv" "DropboxInstaller.dmg" "Discovery Tool-v2.4.1.app.tar" "Designing Data-Intensive Applications.pdf" "confirm_step.mov" "concept leroy 9c.mov" "BME315MatlabNotes.doc" "athlete_analysis.csv" "answers.xlsx" "accessibility_text.PNG" "5f30eda395b284ead86a69db084b9471.mov" "5f30eda395b284ead86a69db084b9471 (1).mov" "4c307ef178e67ba843aea3aaceaa5e99.3gp" "40794ca5e6ba7e73c63eb14185ba52c2.3gp" "29437996.jpg" "20160418_123930.zip" "20160418_123930 (1).zip" "20160418_123930 (1)/" "20160418_123930/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/waltermcconnell/Dropbox/downloads/" (22361 4505 0 0) "Your License.mailplanelicense" "Xplosion.avi" "Wombat.jar" "WMC – Letter of Invitation.pdf" "WMC – Application Form.docx" "Whopper.jpg" "wetransfer-e18b72/" "Web Sharing.prefPane/" "wal.zip" "WAL.pptx" "Wal Mc Connell Colour.jpg" "VTopias_PianoTells.mp3" "Vs Korea game 4/" "Vs Korea game 3/" "Vs Korea game 1/" "Visual Coaching Info (sample from Pistons 2015.11.05).xml" "Vision Presentation - Nov 2015.pptx" "Vision Presentation - Nov 2015.pdf" "Vision Presentation - Nov 2015 (1).pdf" "video-js-4.11.2.zip" "Uploadingfilestobackfour.pdf" "Unknown" "UFC logo.jpg" "UCLA.1stHalf.xls" "UCLA.1stHalf.csv" "Transmit.app/" "Train_Now_9-00am_2015-07-09_10-00.csv" "Trackman Instructs Orioles vs. Twins 9.22.15.csv" "TrackMan Baseball Glossary - standard.pdf" "toggle.CWcode2SC" "tmp.json" "The Evolution of Sports Data and the Player Tracking Revolution - IEG Sports Performance and Tech Manchester 05 11 2015.pdf" "texasrangers_large.png" "texasrangers_128x128.png" "texasrangers.png" "Testing Review.xlsx" "Testing 2015.xlsx" "Testing 2014.xlsx" "Test Wal.pdf" "Team Vs spain 3.xlsx" "Team Vs Spain 2.xlsx" "Team vs spain 1.xlsx" "Team 277231429452209 Leinster Team S & C Report  CTR.xls" "syndesmosis_ms.json" "syndesmosis.json" "stormont view on extendable tripod.mov" "stormont view on extendable tripod-2.mov" "status_reports_2016-04-26T09-47-00+00-00.csv" "status_reports_2016-02-16T16-02-00+00-00.csv" "status_reports_2015-03-18T16-16-50+00-00.csv" "status_reports_2015-03-18T16-16-50+00-00 (1).csv" "STATSportsAPIDocumentation_v1.0.zip" "STATSportsAPIDocumentation_v1.0/" "statplusmacle.zip" "startbootstrap-sb-admin-1.0.3.zip" "spt020usa-game-breaker-email-brochure-white (1).pdf" "Sprint 47 retrospective.pdf" "Springboks.numbers" "SpotifyInstaller.zip" "sportstec_files.zip" "SportscodeGamebreakerPlusV9(영문)_Manual.pdf" "SportsCode & Studiocode Scripting Commands Alphabetical List.pdf" "sounders_large.png" "sounders.png" "SM Meal Plan for SA Cape town.xlsx" "slide_germany.jpg" "sixnations-fixtures-6n-all.ics" "Shoulder-Elbow OSCIS.pages" "Shoulder-Elbow OSCIS (1).pages" "session.csv" "Session-Bennett (1).xlsx" "Session-Afrika" "self_assessment.pdf" "secrets.yml" "secrets-4.yml" "secrets-3.yml" "secrets-2.yml" "Screenshots.zip" "screening.MP4" "Screen Shot 2016-01-04 at 17.53.52.png" "Screen Shot 2016-01-04 at 17.53.48.png" "Screen Shot 2016-01-04 at 17.20.24.png" "Screen Shot 2016-01-04 at 17.18.34.png" "Screen Shot 2016-01-04 at 15.28.08.png" "Screen Shot 2015-10-23 at 4.32.55 PM.png" "San Diego Nutrition Aims.pdf" "San Diego Nutrition Aims.docx" "sample.xlsx" "S%26C%2520(production).json" "rubykoans.zip" "ruby-science.zip" "RubocopForRubymine (2).zip" "RubocopForRubymine (1).zip" "rocky.csv.txt" "remo-repair-mov.zip" "release/" "ref=sr_1_31.html" "Rays Hitter Game Workload.csv" "Quins 13.12.2014.xls" "QT-136a-d30b0e1f-bfffee68-00" "profiler.config.php" "profiler.config (2).php" "profiler.config (1).php" "Profiler wireframe.mov" "Profiler Navigation Hierarchy.xml" "products-WB07JN5T9.zip" "products-WB07403R9.zip" "Production Engineering Offsite - Nov 2015.pdf" "production analyser-1426261873347.json" "prod_db-aurora-creds" "Practice.8-19-15.xls" "Practice.8-18-15.xls" "Practice.8-18-15.csv" "poster_watt (2).jpg" "poster_watt (1).jpg" "PointCloudForFigure1.jpg" "Plugin4YouTube.zip" "pivot-table-cell-referencing.xlsx" "Pitcher Game Stats.csv" "pitch.jpg" "pillars.jpg" "pic.jpg" "photo.JPG" "Photo 21-06-2015 11 05 10.jpg" "Photo 17-10-2015 18 46 19.jpg" "photies.zip" "page.pdf" "Packing list for San Diego.pdf" "Packing list for San Diego.docx" "Output for Wal.CWcode2SC" "Ops Meeting Review-1433428490635.json" "Ops Meeting - Profiler-1437133547817.json" "Ops Meeting - Profiler-1437132518303.json" "OPS Meeting - Athlete API-1437134601585.json" "OPS Meeting - Athlete API-1437133628682.json" "NYDet0415.zip" "nginx.conf" "newspaper.jpg" "newrelic.yml" "newrelic-2.yml" "Ned Notes XML Edit list.xml" "NDA Kitman.AWS Sept 2015.pdf" "NaomiStenhouse_SportsPT_Manc_Nov15.mp4.crdownload.pdf" "Nacewa.jpg" "mysql-slowquery.log" "mysql-slowquery (1).log" "my_file.pdf" "momentum.CWcode2SC" "momentum-3.CWcode2SC" "momentum-2.CWcode2SC" "mlb2011.xls" "micky.csv.txt" "Medinah - Finish Line - Sprint 5.pdf" "Me-Responsive-Personal-Portfolio.zip" "man.jpeg" "Making History_2012-2016.mp4-2.download/" "main_middle.jpg" "MacKeeper.pkg" "M05 KOR vs PAK 4N 050515.SCpkg.zip" "LSHunter TV, live streaming vi_2594_ae5bb7ae-5818-42e5-8072-b1c4020050c4.pkg" "Leading Snowflakes The Book Package (1).zip" "latest.json" "KLP Today.jpg" "KLP Architecture (4).jpg" "KLP Architecture (3).jpg" "KLP Architecture (2).jpg" "KLP Architecture (1).jpg" "KLP - Phase 2.jpg" "KLP - Phase 2 (1).jpg" "KLP - Phase 1.jpg" "KitmanLabs (1).zip" "Kitman_Labs.zip" "kitman_labs._trianing_export_1.csv" "kitman_labs._trianing_export_1 (1).csv" "kitman_16APR2015 (1).pem" "Kitman Testing Database Milwaukee Bucks 2016.csv" "Kitman Labs. Game Export 1.xlsx" "Kitman Labs Ltd. Company Handbook.pdf" "Kitman Labs Keynote Template.key" "Kitman Labs Headed Note Paper.pages" "Kitman Labs Employee Setup Form.pages.zip" "Kitman Labs Employee Setup Form.pages/" "Kitman Labs - Option Scheme (2014-12-31).docx" "kitman (1).zip" "kirk_large.png" "kirk.png" "Kirk Shimmins 29576 201605131733_1st Qtr.xml" "julia-ann.html" "IRL v BEL 2nd Test 151014.xlsx" "IRISH_HOCKEY.zip" "IRISH MENS.CWcode2GB" "irfuwomen_large.png" "irfuwomen_128x128.png" "irfuwomen.png" "IREvGB 070416 M3 .xlsx" "IREvGB 070416 M3 .pdf" "IREvGB 070416 M3 -2.pdf" "IREvGB 050416 M2.xlsx" "IREvGB 050416 M2.pdf" "IREvGB 050416 M2-2.pdf" "IREvGB 040416.xlsx" "IREvGB 040416.pdf" "IREvGB 040416-2.pdf" "Ireland U20s v Leinster Custom Export-2.csv" "Intercom-on-Jobs-to-be-Done.pdf" "intercom-engineering-insights-ownership.ics" "install_name_tool.zip" "Install Spotify.app/" "index.php" "import_org_bk.php" "IMG_2168.JPG" "IMG_2166.JPG" "images.pptx" "image3.PNG" "image2.PNG" "image1.PNG" "image.jpg" "image-2.jpg" "IH_SLIDES.pptx.download/" "iCoda Live Coding Set Up Instructions (1).pdf" "Home Board-1427219405355.json" "Home Board-1427218857698.json" "Home Board-1426848009476.json" "Hockey-Ireland-Primary-Logo.jpg" "Hockey-Ireland-Primary-Logo-2.jpg" "hockey ireland.csv" "Hockey Ireland-Kitman Labs Sales Order - 15-12-2015.pdf" "Hockey Ireland-Kitman Labs Contract 14-12-2015 (1).docx" "Hockey Ireland Men App.docx" "hill.png" "heroku-toolbelt.pkg" "Hagan.jpg" "Green Army Real Time Code Window-Level 1 SC Elite-Version 2.CWcode2SC" "Green Army Post Match Report Template.xlsx" "graph.png" "GPS_15-04-14.xlsx" "gk_questionnaire2 (1).jpg" "github-issue-counter.zip" "GitHub Desktop 216.zip" "GeorgeMurray_SportsPT_Manc_Nov15.mp4.crdownload.pdf" "GB 050416 M2 PLayer Codes.xml" "g.xml" "g.csv" "fx2015.csv.zip" "Freedom.license.freedomLicense" "Freedom.license 2.freedomLicense" "Forecasting_principles_and_practice-pdf.acsm" "fontawesome-webfont.woff" "FMS Scores Graph and Corrective January 2015.docx" "FINAL JPGS/" "fenway_production.csv" "fenway_production (2).csv" "fenway_production (1).csv" "Fenway - Production-1427797506164.json" "Fact Sheet Caffeine.pdf" "Fact sheet 3 - Packing for SA Tour.pdf" "Fact sheet 2 - Creatine Loading.pdf" "Fact sheet 1 - Immune Function.pdf" "Fabric-latest.zip" "extundelete-0.2.4.tar.bz2" "export_07-07-15 (Wal).csv" "exercices_3_and_4.zip" "Engineering - Q4 2015_Q1 2016.pptx" "elias_to_lahman.csv" "duet.app/" "donut.CWcode2SC" "donut-2.CWcode2SC" "documents-export-2016-06-02/" "docs/" "djnkxnemdcraivzabezxtbhwjhqw.xls" "dita.png" "dita.jpg" "disagree.jpg" "demo2.mov" "database.yml" "database (1).yml" "dashboard_credentials.csv" "Daniel Pink - Autonomy, Mastery & Purpose-wdzHgN7_Hs8.mp4" "Daily Monitoring (S.A.) - Lisa Edit - REALupdated.xlsx" "D'Arcy's (1).zip" "CV - Andrew Williamson - Kitman Labs.doc" "ctr-report-p-s5-live-7416.csv" "ctr-report-p-s5-live-7416-2.csv" "CSV Toulon 20.04.2015.csv" "CSV Dragons 12.04.2015.csv" "CSV Bath 04.04.2015.csv" "credentials.zip" "credentials.csv.txt" "credentials.csv" "credentials-5.csv" "credentials-4.csv" "credentials-3.csv" "credentials-2.csv" "credentials (9).csv" "credentials (8).csv" "credentials (7).csv" "credentials (6).csv" "credentials (5).csv" "credentials (4).csv" "credentials (34).csv" "credentials (33).csv" "credentials (32).csv" "credentials (31).csv" "credentials (30).csv" "credentials (3).csv" "credentials (29).csv" "credentials (28).csv" "credentials (27).csv" "credentials (26).csv" "credentials (25).csv" "credentials (24).csv" "credentials (23).csv" "credentials (22).csv" "credentials (21).csv" "credentials (20).csv" "credentials (2).csv" "credentials (19).csv" "credentials (18).csv" "credentials (17).csv" "credentials (16).csv" "credentials (15).csv" "credentials (14).csv" "credentials (13).csv" "credentials (12).csv" "credentials (11).csv" "credentials (10).csv" "credentials (1).csv" "Crazy austrians.mp4" "Correlation matrix steps.doc" "controller_summary.csv" "controller_summary-2.csv" "Connacht 19.12.2014.xls" "confident-ruby.zip" "CodaManual.pdf" "CODA_iCODA2(영문)_Manual.pdf" "Coda live import (eng) (1).pdf" "CMJout.csv.zip" "CMJout.csv" "club.report.norwich.pdf" "club.report.hockey.pdf" "chc_logo.jpg" "CHC-Summer-camp-Application-Form1.docx" "Catapult Session-Table 1.csv" "Catapult New Period-Table 1.csv" "Catapult CTR-Table 1.csv" "Capture2.PNG" "Capture User List.numbers" "C_Hockey_Club.png" "C_Hockey_Club.jpg" "build-apis-you-wont-hate.pdf" "buffet.jpg" "Brendan_Clark_Infrastructure_scenario_Kitman_Labs.docx" "big_file.csv" "Belgium monitoring - Lisa - Stuart Cormack.xlsx" "Batter Game Stats.csv" "banking.csv" "AWS_Simple_Icons_v15.10.2.zip" "AWS_Simple_Icons_PPT_v15.10.2.pptx" "AWS_Simple_Icons_ppt.pptx" "aws-sdk-v1-1.66.0.gem" "Availabillity Overview-1433427315404.json" "attachments.zip" "attachments (3).zip" "attachments (2).zip" "attachments (1).zip" "athlete_analysis.csv" "athlete_analysis-7.csv" "athlete_analysis-6.csv" "athlete_analysis-5.csv" "athlete_analysis-4.csv" "athlete_analysis-3.csv" "athlete_analysis-2.csv" "Athlete API - Staging-1427126701298.json" "Athlete API - Production.json" "arima-time-range-simulations.zip" "Apprenticeship_Patterns_Dave_Hoover_Adewale_Oshineye(www.ebook-dl.com).zip" "apisonrails.pdf" "api_shoryuken.conf" "andykavc@andykav.com.duck" "andykavc@andykav.com-2.duck" "Analysis Matrix Template Version 2.SCmatx" "anailis_sidekiq.conf" "Alerts Vision Notes.pdf" "A0_print.pdf" "91e74ab0-6595-43e5-b2b6-268dbbb4c507" "9.28 Instructs.csv" "9.25 Instructs Rays-Orioles.csv" "6394-13939-1-PB.pdf" "5.jpg" "4.jpg" "4. Monitoring Questionaire (Dragons).xlsx" "3.jpg" "20160524-1730-injprof.sql.gz.download/" "2016-01-12.csv" "20150909-Baltimore.csv" "20150909-Baltimore-corrected (2).csv" "2015.10.01_Afternoon_Session_Catapult_Export.csv" "2015.09.30_Afternoon_Session_Catapult_Export.csv" "2015.04.20 - Team Session.csv" "2015.01.xlsx" "2014-10-24 Terms of Employment - Walter McConnell.pdf" "2014 - 2016 - Green Machine V11..xlsx" "2014 - 2016 - Green Machine V10.1.xlsx" "2014 - 2016 - Green Machine V10.1 (1).xlsx" "2014 - 2015 - Green Machine V6.xlsx" "2014 - 2015 - Green Machine V6.1.xlsx" "2.jpg" "1915781_10153212299846512_7488385960314432913_n.jpg" "18.08.15%20Session.csv" "13323649_10207560279099566_78759824037447124_o.jpg" "13308714_10207560190937362_593803674863320910_o.jpg" "13308714_10207560190937362_593803674863320910_o-2.jpg" "1.jpg" "06.07.xlsx" "02151988 - Kitman - Security Testing Draft Reports.zip" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/waltermcconnell/Dropbox/" (22358 42046 0 0) "Lee.mp4" "kitman_macbook_pro/" "Irish Hockey (Men)/" "Ire Aus Share/" "Icon
+" "ESTA-Status-Summary.html" "ESTA-Application.html" "downloads/" "bin/" "Aus Ire Share/" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/waltermcconnell/tmp/" (22361 12320 0 0) "~$opensource.xlsx" "OpensourceLibs" "opensource.xlsx" "opensource.csv" "Gemfile" ".DS_Store" "../" "./")
+
+ ("/Users/waltermcconnell/projects/KitmanLabs/medinah/public/javascripts/" (22339 4557 0 0) "authentication.js.map" "authentication.js" "application.js.map" "application.js" ".application.js.swp" "../" "./")
+
+ ("/Users/waltermcconnell/projects/KitmanLabs/medinah/public/" (22335 13155 0 0) "stylesheets/" "robots.txt" "javascripts/" "img/" "fonts/" "favicon.ico" "500.html" "422.html" "404.html" "../" "./")
+
+ ("/Users/waltermcconnell/projects/KitmanLabs/medinah/" (22339 3448 0 0) "webpack.config.js" "vendor/" "tmp/" "tests.webpack.js" "status/" "spec/" "README.md" "Rakefile" "public/" "Procfile" "package.json" "node_modules/" "log/" "locale/" "lint.yml" "lib/" "karma.config.js" "gulpfile.js" "Guardfile" "Gemfile.lock" "Gemfile" "db/" "coverage/" "config.ru" "config/" "circle.yml" "Capfile" "bin/" "app/" ".ruby-version" ".rubocop.yml" ".rspec" ".idea/" ".gitignore" ".git/" ".eslintrc" ".env.local" ".env" ".editorconfig" ".DS_Store" ".babelrc" "../" "./")
+
+ ("/Users/waltermcconnell/projects/KitmanLabs/" (22274 28025 0 0) "wenger/" "tmp/" "Sports-Science-DashboardOLD/" "Sports-Science-Dashboard-Ember/" "Sports-Science-Dashboard/" "sherlock-old/" "sherlock/" "old_website.zip" "old_website/" "old_prototypes.zip" "old_prototypes/" "medinah/" "kitman-statistics-ruby/" "kitman-sanity/" "kitman-s-and-c-api/" "kitman-profiler-dev/" "kitman-profiler-api/" "kitman-profiler/" "kitman-objc/" "kitman-misc/" "kitman-locales/" "kitman-kittbot/" "kitman-dsbot2/" "kitman-devops/" "kitman-dashboards/" "kitman-careers-site/" "kitman-capture/" "kitman-cap-autoscale/" "kitman-athlete-app-api/" "kitman-analyser-service/" "kitman-analyser/" "kitman-anailis/" "kitman-albert/" "jose/" "gps/" "github_stats/" "fenway-client/" "fenway/" "elastic_search_query.zip" "elastic_search_query/" "deployment/" "demo_account_import/" "analyser-runner/" ".DS_Store" "../" "./")
+
+ ("/Users/waltermcconnell/Desktop/Dropbox/" (22335 8798 0 0) "todo.txt" ".DS_Store" "../" "./")
+
+ ("/Users/waltermcconnell/Desktop/Windows 10/" (22211 878 0 0) "Windows 10.app/" "Windows 10-0.hdd/" "VmInfo.pvi" "Unattended.iso" "statistic.log" "parallels.log" "config.pvs.backup" "config.pvs" "../" "./")
+
+ ("/Users/waltermcconnell/Desktop/wal-DM/" (22312 30097 0 0) "secrets.yml" "secrets-BACKUP.yml" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/fenway_stats/" (22307 50067 0 0) "stats.rb" "fenway.json" ".idea/" "../" "./")
+
+ ("/Users/waltermcconnell/projects/wal/R-Code/" (21672 30037 0 0) "world_cup_2010/" "time_series/" "statistics/" "regression/" "README.md" "premier_league/" "mysql/" "MachineLearningWithR/" "datasets/" ".git/" "../" "./")
+
+ ("/Users/waltermcconnell/projects/" (22228 28 0 0) "wal/" "videojs/" "thoughtbot/" "skmetz/" "sinatra/" "SciRuby/" "s-u/" "refinery/" "rails/" "nslocum/" "neo/" "mozilla/" "magicmonty/" "lysyi3m/" "logentries/" "KitmanLabs/" "kaybenleroll/" "jordanhudgens/" "jnunemaker/" "etsy/" "emacs-ess/" "dynamo_json_ruby/" "DublinR/" "clbustos/" "capistrano/" "aws/" "api-examples/" "AnkurGel/" "andykav/" "al/" "abhishek77in/" ".idea/" ".DS_Store" "../" "./")
+
+ ("/usr/local/etc/php/5.6/" (22189 15154 0 0) "php.ini" "php-fpm.conf.default" "php-fpm.conf" "../" "./")
+
+ ("/Users/waltermcconnell/projects/KitmanLabs/kitman-athlete-app-api/" (22229 30638 0 0) "tmp/" "status/" "spec/" "script/" "README.md" "Rakefile" "public/" "Prototypes/" "log/" "lib/" "Gemfile.lock" "Gemfile" "features/" "doc/" "deploy/" "db/" "data/" "coverage/" "config.ru" "config/" "circle.yml" "CHANGELOG.md" "Capfile" "bin/" "app/" ".simplecov" ".ruby-version" ".rubocop.yml" ".rspec" ".idea/" ".gitmodules" ".gitignore" ".git/" ".editorconfig" "../" "./")
+
+ ("/Users/waltermcconnell/projects/KitmanLabs/kitman-athlete-app-api/app/models/" (22240 28624 0 0) "variable_type.rb" "user.rb" "training_variable_component.rb" "training_variable_answer.rb" "training_variable.rb" "training_session_type.rb" "training_session.rb" "team.rb" "squad.rb" "sport.rb" "side.rb" "session.rb" "referral.rb" "questionnaire.rb" "question_types/" "question_type.rb" "question_group.rb" "preference.rb" "platform.rb" "phone_home_event.rb" "permissions_user.rb" "permission_group.rb" "permission.rb" "osics_pathology.rb" "osics.rb" "organisations_user.rb" "organisations_preference.rb" "organisation_training_variable.rb" "organisation_training_session_type.rb" "organisation_team.rb" "organisation_squad.rb" "organisation_permission.rb" "organisation_component.rb" "organisation_association.rb" "organisation_activity.rb" "organisation.rb" "note.rb" "marker.rb" "log.rb" "localisation.rb" "injury_profile.rb" "injury_occurrence.rb" "injury.rb" "indication_organisation.rb" "illness.rb" "game.rb" "diagnostic_type.rb" "diagnostic.rb" "decorators/" "concerns/" "component.rb" "completed_questionnaire.rb" "competition.rb" "calibration.rb" "baseline.rb" "availability.rb" "attachment.rb" "athlete_training_session_metadatum.rb" "athlete_training_session_metadata_type.rb" "athlete_training_session.rb" "athlete_squad.rb" "athlete_organisation_training_variable.rb" "athlete_organisation.rb" "athlete_indication.rb" "athlete_game.rb" "athlete_data_source.rb" "athlete.rb" "api_version.rb" "answer_attachment.rb" "alerts_workload.rb" "alerts_training_variable.rb" "alerts_athlete_indication.rb" "alert.rb" "activity_group.rb" "activity.rb" "../" "./")
+
+ ("/Users/waltermcconnell/projects/KitmanLabs/kitman-athlete-app-api/app/controllers/" (22240 28624 0 0) "training_sessions_controller.rb" "training_session_types_controller.rb" "squads_controller.rb" "sessions_controller.rb" "questionnaires_controller.rb" "phone_home_events_controller.rb" "games_controller.rb" "errors_controller.rb" "concerns/" "completed_questionnaires_controller.rb" "athletes_controller.rb" "athlete_training_session_metadata_types_controller.rb" "application_controller.rb" "../" "./")
+
+ ("/Users/waltermcconnell/projects/KitmanLabs/kitman-athlete-app-api/app/" (22015 9481 0 0) "serializers/" "models/" "lib/" "controllers/" "../" "./")
+
+ ("/Users/" (22189 11850 0 0) "waltermcconnell/" "Shared/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-athlete-app-api/" (22186 37868 0 0) "tmp/" "status/" "spec/" "script/" "README.md" "Rakefile" "public/" "Prototypes/" "log/" "lib/" "Gemfile.lock" "Gemfile" "features/" "doc/" "deploy/" "db/" "data/" "coverage/" "config.ru" "config/" "circle.yml" "CHANGELOG.md" "Capfile" "bin/" "app/" ".simplecov" ".ruby-version" ".rubocop.yml" ".rspec" ".idea/" ".gitmodules" ".gitignore" ".git/" ".editorconfig" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/fenway/app/lib/" (22176 61478 0 0) "units.rb" "parser/" "metric_importer.rb" "fenway_datastore.rb" "../" "./")
+
+ ("/Users/wal/tmp/" (22186 20370 0 0) "highlights/" "20160125-1030-injprof.sql" ".Rhistory" ".DS_Store" "../" "./")
+
+ ("/Users/wal/.emacs.d/" (22176 55513 0 0) "wal/" "vendor/" "style.el" "init.el" "ido.last" "games/" "elpa/" "bin/" "backup/" "auto-save-list/" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/wal/Downloads/" (22176 35558 0 0) "Screen Shot 2016-01-13 at 10.45.59.png" "KRC_v_Cork_11-04-2015 copy.csv" "Kitman known issues, build 1.0.52-QA.xlsx" "CMJ_Demo.mov" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/wal/Desktop/" (22187 27272 0 0) "~$Tournament_Corners_backup.xlsx" "~$Tournament_Corners.xlsx" "WL4/" "screening.CWcode2GB" "screening 09012016.GBpkg/" "Screen Shot 2016-01-29 at 13.34.58.png" "Screen Shot 2016-01-29 at 13.31.54.png" "Screen Shot 2016-01-29 at 11.04.00.png" "Screen Shot 2016-01-29 at 10.23.19.png" "Screen Shot 2016-01-26 at 16.47.00.png" "Screen Shot 2016-01-26 at 16.43.12.png" "Screen Shot 2016-01-26 at 16.41.57.png" "Screen Shot 2016-01-26 at 16.41.44.png" "Screen Shot 2016-01-25 at 15.24.42.png" "Screen Shot 2016-01-25 at 13.59.25.png" "Screen Shot 2016-01-25 at 11.33.27.png" "Screen Shot 2016-01-25 at 10.11.20.png" "Screen Shot 2016-01-22 at 18.49.26.png" "Screen Shot 2016-01-22 at 10.17.30.png" "Screen Shot 2016-01-22 at 10.17.14.png" "Screen Shot 2016-01-19 at 14.54.36.png" "Screen Shot 2016-01-19 at 14.51.52.png" "Screen Shot 2016-01-19 at 14.46.11.png" "Screen Shot 2016-01-19 at 14.13.38.png" "Screen Shot 2016-01-19 at 14.12.43.png" "Screen Shot 2016-01-19 at 11.34.52.png" "Screen Shot 2016-01-18 at 10.25.17.png" "Screen Shot 2016-01-17 at 11.59.55.png" "Screen Shot 2016-01-15 at 11.16.20.png" "Screen Shot 2016-01-15 at 10.26.59.png" "Screen Shot 2016-01-14 at 18.58.25.png" "Screen Shot 2016-01-13 at 15.54.46.png" "Screen Shot 2016-01-13 at 15.42.15.png" "Screen Shot 2016-01-13 at 15.42.03.png" "Screen Shot 2016-01-13 at 11.46.31.png" "Screen Shot 2016-01-12 at 10.53.54.png" "Screen Shot 2016-01-12 at 10.53.36.png" "Screen Shot 2016-01-12 at 10.53.30.png" "Screen Shot 2016-01-12 at 10.53.10.png" "Screen Shot 2016-01-08 at 14.19.15.png" "Screen Shot 2016-01-08 at 14.18.35.png" "PreCampCMJs.zip" "PreCampCMJs/" "PCS.CWcode2SC" "Kx_eBook_-_The_Database_Decision.pdf" "irfu_large.png" "irfu_128x128.png" "hockey_ireland.csv" "highlights_window.CWcode2GB" "game.png" "Dropbox/" "delegteme/" "CMJ images/" "Belgium-Flickers.MCtxt/" "BEL-PC-WL4.SCpkg.zip" "BEL-PC-WL4.SCpkg/" "BEL-PC-WL4-mp4.SCpkg/" "BEL-PC-WL4-comp.SCpkg.zip" "ARG 1-0 IND Peillat puts Argentina ahead with a deflected dragflick #HWL2015 #Raipur-xJAOMCLRtX8.mp4" "Apprenticeship_Patterns_Dave_Hoover_Adewale_Oshineye(www.ebook-dl.com).pdf" "all.png" "agile_large.png" "agile.png" "2nd_half.png" "1st_Half.png" ".QT-1e00-d11fdca9-bfffeea8-00" ".QT-1d71-d11fd762-bfffeea8-00" ".QT-1656-d0eb1a98-bfffeea8-00" ".QT-14ae8-d252e48a-bfffeea8-00" ".QT-1499b-d252dbad-bfffeea8-00" ".QT-14742-d252d517-bfffeea8-00" ".QT-102e-d0e9c54e-bfffedf8-00" ".QT-0dba-d0f06be4-bfffee98-00" ".QT-0db0-d0f06b83-bfffee98-00" ".localized" ".lbytahqwa" ".hfdbtepjyf" ".DS_Store" "   .png" "../" "./")
+
+ ("/Users/wal/Desktop/Dropbox/" (22187 18353 0 0) "todo.txt" "leinstervglasgow.txt" "../" "./")
+
+ ("/Users/wal/" (22162 17834 0 0) "tmp/" "Public/" "projects/" "Pictures/" "Music/" "Movies/" "Library/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "bin/" "Applications/" ".zshrc" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".viminfo" ".vim/" ".vagrant.d/" ".v8flags.3.14.5.9.wal.json" ".travis/" ".Trash/" ".subversion/" ".ssh/" ".sqlite_history" ".serverauth.48501" ".serverauth.4375" ".scala_history" ".s3cfg" ".rvm/" ".RubyMine80/" ".RubyMine70/" ".rstudio-desktop/" ".rnd" ".Rhistory" ".RData" ".rbenv/" ".psql_history" ".pry_history" ".pry/" ".pow/" ".oracle_jre_usage/" ".npm/" ".node-gyp/" ".netrc" ".mysql_history" ".mplayer/" ".local/" ".lesshst" ".heroku/" ".guard_history" ".gitconfig" ".gem/" ".fontconfig/" ".exercism.json" ".emacs.d/" ".DS_Store" ".dropbox/" ".cups/" ".config/" ".composer/" ".coffee_history" ".CFUserTextEncoding" ".cache/" ".bundle/" ".bashrc" ".bash_profile" ".bash_history" ".aws/" ".android/" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/www/" (22158 39447 0 0) "sitemap.xml" "robots.txt" "rails_assets/" "media/" "index.php" "favicon.ico" "assets/" "apple-touch-icon.png" "apple-touch-icon-precomposed.png" "apple-touch-icon-76x76.png" "apple-touch-icon-76x76-precomposed.png" "apple-touch-icon-72x72.png" "apple-touch-icon-72x72-precomposed.png" "apple-touch-icon-60x60.png" "apple-touch-icon-60x60-precomposed.png" "apple-touch-icon-57x57.png" "apple-touch-icon-57x57-precomposed.png" "apple-touch-icon-180x180.png" "apple-touch-icon-180x180-precomposed.png" "apple-touch-icon-152x152.png" "apple-touch-icon-152x152-precomposed.png" "apple-touch-icon-144x144.png" "apple-touch-icon-144x144-precomposed.png" "apple-touch-icon-120x120.png" "apple-touch-icon-120x120-precomposed.png" "apple-touch-icon-114x114.png" "apple-touch-icon-114x114-precomposed.png" ".htaccess" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/core/" (22158 39447 0 0) "Kit_Security.php" "Kit_Model.php" "Kit_Loader.php" "Kit_Lang.php" "Kit_Input.php" "Kit_Exceptions.php" "Kit_Controller.php" "index.html" "../" "./")
+
+ ("/Users/wal/projects/wal/dotfiles/bin/" (22162 13361 0 0) "webserver" "vcprompt" "ssh-ec2" "show-ec2-instances" "run-command-on-git-revisions" "remove_spaces" "remove_apos" "make_fileslist" "iterm_title" "git-notpushed" "generate_tags" "ffsplit.sh" "ffmpeg_concat" "delete_all_but.sh" "credentials (15).csv" "convert_movie" "convert_all_with_audio" "convert_all_extra_volume" "convert_all" "concat_all" "colors.sh" "clock" "change-git-user-details.sh" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/" (22158 39447 0 0) "workloads/" "training_sessions/" "templates/" "squads/" "referrals/" "questionnaires/" "predictions/" "pdf/" "pages/" "notes/" "maintenance/" "mailers/" "logs/" "injury_occurrences/" "injuries/" "index.html" "illnesses/" "gym_sessions/" "games/" "events/" "email/" "diagnostics/" "auth/" "athletes/" "application/" "analysis/" "alerts/" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/application/" (22158 39447 0 0) "upload_event_file.php" "index.php" "inc/" "charts/" "calendar.php" "admin.php" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/helpers/" (22158 39447 0 0) "recaptcha_helper.php" "pdf_helper.php" "kit_json_helper.php" "kit_encryption_helper.php" "Kit_date_helper.php" "inflector_helper.php" "index.html" "general_helper.php" "datamapper_helper.php" "clone_org_helper.php" "ckeditor_helper.php" "chart_helper.php" "auth_helper.php" "athlete_page_helper.php" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/models/" (22158 39447 0 0) "venue_type.php" "variable_type.php" "user.php" "training_variable.php" "training_session.php" "timezone.php" "team.php" "strength_routine.php" "strength_programme.php" "strength_metric.php" "strength_gym_session.php" "strength_group.php" "strength_exercise.php" "strength_athlete_routine_set.php" "strength_athlete_routine.php" "squad.php" "sport.php" "side.php" "session_type.php" "referral.php" "questionnaire.php" "preference.php" "prediction.php" "platform.php" "permission_group.php" "permission.php" "pathology.php" "passport.php" "osics_pathology.php" "osics_classification.php" "osics_body_area.php" "osics.php" "organisation_team.php" "organisation.php" "note.php" "mpress.php" "module.php" "mcron.php" "marker_type.php" "marker.php" "log.php" "localisation.php" "issue_availability.php" "injury_profile.php" "injury_occurrence.php" "injury.php" "indication.php" "index.html" "illness_type.php" "illness.php" "group.php" "grade.php" "game.php" "file.php" "diagnostic_type.php" "diagnostic.php" "country.php" "competition.php" "classification.php" "bodyarea.php" "body_part.php" "body_group.php" "body_area.php" "baseline.php" "availability.php" "athletes_training_session.php" "athlete_thirdparty_settings.php" "athlete_organisation_training_variable.php" "athlete_indication.php" "athlete_game.php" "athlete.php" "association.php" "answer.php" "alerts_workload.php" "alert_type.php" "alert.php" "activity_group.php" "activity.php" "_bin/" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/athletes/" (22158 39447 0 0) "workloads_timeseries.php" "workloads.php" "show.php" "screenings.php" "reports_csv.php" "reports.php" "questionnaires.php" "medical.php" "issue_create_new.php" "index.php" "cmj.php" "availability_edit.php" "availability.php" "_squad_select_form.php" "_overview.php" "_nav.php" "_controls.php" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/controllers/" (22158 39447 0 0) "workloads.php" "training_sessions.php" "stats.php" "squads.php" "s3_callbacks.php" "referrals.php" "questionnaires.php" "predictions.php" "pathologies.php" "pages.php" "osicss.php" "organisations.php" "notes.php" "maintenance.php" "logs.php" "injury_occurrences.php" "injuries.php" "index.html" "illnesses.php" "gym_sessions.php" "games.php" "events.php" "diagnostics.php" "competitions.php" "bodyparts.php" "auth.php" "athletes.php" "application.php" "analysis.php" "alerts.php" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/migrations/" (22159 37649 0 0) "20160107172729_delete_bath_body_weight_alerts.php" "20160107170000_add_alerts_workloads_index.php" "20160106091403_update_munster_athlete_injury.php" "20151222145611_unresolve_everton_injury.php" "20151222120559_remove_attachment_per_issue2033.php" "20151216131049_fix_invalid_resolved_injuries.php" "20151215172658_demo_account_db_migration.php" "20151214130745_add_ireland_squads.php" "20151207103620_turn_off_invalid_workload_alerts2.php" "20151204140216_turn_off_invalid_workload_alerts.php" "20151204102740_tidy_and_deactivate_users.php" "20151202105448_delete_incorrect_capture_readings02122015.php" "20151201142609_athlete_injury_update.php" "20151129202148_turn_off_workload_alerts.php" "20151125113633_delete_incorrect_capture_reading17112015.php" "20151110135833_remove_another_everton_xray_attachment.php" "20151110095129_remove_everton_xray_attachment.php" "20151109175824_remove_pistons_questionnaire_answer.php" "20151109105116_disable_cmj_alerts.php" "20151106133610_set_answer_processed.php" "20151105120240_update_tapadoo_users.php" "20151104154226_delete_bassong_incorrect_cmj_value.php" "20151027140245_remove_invalid_organisations_users.php" "20151027124140_add_cgheonea_admin_account.php" "20151023102239_tidy_organisations_users_table.php" "20151022134527_add_user_permission_group_id.php" "20151021093337_fix_invalid_athlete_users.php" "20151020154446_remove_everton_notes.php" "20151019145820_cmj_analyser.php" "20151019115525_language_hirearchy_update.php" "20151016153640_add_modified_to_answers.php" "20151016102223_migrate_user_groups.php" "20151015101004_update_norwich_groin_squeeze.php" "20151014145351_sub_preference_fix.php" "20151012160623_add_dodgers_localisation.php" "20151012144821_remove_athlete_chart_prefs.php" "20151009091813_add_gird_and_trmd_chart_prefs.php" "20151008144409_fix_ranking_preferences_for_browns.php" "20151007140220_add_ranking_preferences_for_browns.php" "20151005144615_add_gmccoy_admin_account.php" "20151005143033_add_ranking_preferences.php" "20151005131731_add_ashelton_admin_account.php" "20151005104525_remove_video_tables.php" "20151002071719_add_energy_and_illness_training_variables.php" "20150930153031_remove_messages_table.php" "20150929095512_conor_hunt_note_date.php" "20150928151753_migrate_orioles_training_sessions_to_new_type.php" "20150925112147_mark_video_analysts_as_in_active.php" "20150924124120_add_soft_delete_to_users.php" "20150921145626_remove_coleman_note.php" "20150921114424_baxter_note_update.php" "20150909104240_add_multiple_analysers_tables.php" "20150908155537_update_norwich_injury_occurrence.php" "20150908093658_fix_athlete_availability.php" "20150908081737_update_korean_orgs_and_users.php" "20150903164238_fix_invalid_markers.php" "20150831184000_remove_duplicate_note.php" "20150831181513_add_zephyr_preference.php" "20150831105217_fix_availability.php" "20150828140620_add_stiffness_to_usc.php" "20150828121852_remove_athlete_note.php" "20150828103344_update_munster_season.php" "20150826111354_update_grenoble_season_start2015.php" "20150825110846_toggle_usc_org_flags.php" "20150825092641_remove_bath_old_capture_answers.php" "20150824160105_remove_note15007.php" "20150824123803_remove_message_module_and_permissions.php" "20150821082250_remove_game_rpe_pref.php" "20150819113405_update_dodgers_injuries.php" "20150818082725_add_cmj_pref.php" "20150813153636_add_illness_type_index.php" "20150812103446_add_cmj_to_training_variables_modules.php" "20150806163404_thirdparty_event_show_preferences.php" "20150804101719_add_statsports_preference.php" "20150731091833_update_thrid_party_settings.php" "20150731091348_add_cmj_training_variable.php" "20150727230008_add_athlete_game_notified.php" "20150724094451_add_tampa_workload_preference.php" "20150720145142_add_has_timeseries_flag.php" "20150720113326_add_catapult_open_field_preference.php" "20150717085016_default_is_processed_true.php" "20150708162537_remove_activity_groups_organisations.php" "20150701082813_add_athlete_indication_default.php" "20150618102416_add_log_index.php" "20150616115005_add_file_id_to_ath_org.php" "20150609090202_add_organisation_id_to_athlete_third_party_settings.php" "20150608133400_add_training_session_upload_preference.php" "20150528093303_remove_organisation_id_from_squads.php" "20150528091557_add_indexes_to_organisations_squads.php" "20150527194953_add_owner_to_organisations_squads.php" "20150525145323_add_organisation_preferences_for_third_party_data.php" "20150520163414_fix_osics_pathology_name_varchar_length.php" "20150511153553_add_alert_workload_table.php" "20150417131042_add_invert_scale.php" "20150326173101_questionnaire_compliance_pref.php" "20150323115643_decimal_rpe_preferences.php" "20150306141122_add_indexes_to_athletes_organisations.php" "20150303172142_athlete_mlb_thirdparty_settings.php" "20150302142440_game_file_upload_preferences.php" "20150225122824_add_preference_index_to_preferences.php" "20150225122436_add_default_analyser_sample_size_preference.php" "20150225091616_add_undirected_alerts_to_athletes_games.php" "20150225091601_add_undirected_alerts_to_athletes_training_sessions.php" "20150225091344_add_undirected_alerts_to_answers.php" "20150217184812_add_back_pain_squad_alert_preference.php" "20150211140324_set_everton_lang.php" "20150206155842_add_athlete_squads_indexes.php" "20150203142338_osics_index.php" "20150202105646_organisation_preferences.php" "20150202103157_default_preferences.php" "20150123141920_add_user_id_to_logs.php" "20141231114310_add_preferences_to_users.php" "20141202124725_add_notified_boolean_to_athlete_training_sessions.php" "20141124100344_add_custom_osics_pathology_and_bodyarea_to_injury.php" "20141107165739_add_recorded_rpe_to_athletes_training_sessions.php" "20141029142317_add_osics_objects.php" "20141007123733_issue_availability_join.php" "20140915132528_remove_user_timezone_id.php" "20140911125239_add_additional_analyser_fields.php" "20140901160451_add_admin_field_to_user_model.php" "20140825163240_add_squad_organisation_association.php" "20140807090811_add_hidden_to_permissions.php" "20140805175831_add_batting_shoulder_dominance_to_athletes.php" "20140731120948_add_show_manual_baseline_to_organisations.php" "20140730161619_add_encryption_fields_to_organisations_notes_and_users.php" "20140725131343_create_organisation_indications_and_indication_types.php" "20140725111209_create_alerts_athlete_indications.php" "20140724163549_create_athlete_indications.php" "20140724161414_add_user_signature.php" "20140724144211_add_illness_referral_object.php" "20140723111526_add_subject_to_referrals.php" "20140722205022_create_diagnostics_illnesses.php" "20140721103948_add_file_id_to_note_object.php" "20140717133037_add_meta_data_to_notes_and_diagnostics.php" "20140715210145_add_locale_to_users.php" "20140715093603_refactor_time_zones.php" "20140711145145_create_squad_restrictions.php" "20140711112131_add_alias_to_users_and_athletes.php" "20140707095650_add_referrals_object.php" "20140624145554_add_illnesses_notes_object.php" "20140528154942_add_shoulder_dominance_to_athlete_object.php" "20140526153058_add_questionnaire_id_to_notes.php" "20140516151648_add_locale_to_organisations.php" "20140513113652_add_removed_field_to_athlete_object.php" "20140508140134_remove_organisation_id_from_diagnostic_object.php" "20140501073233_add_answer_id_to_alert_training_variable.php" "20140430115202_add_is_valid_flag_to_alerting_variables.php" "20140402162848_add_is_processed_flags.php" "20140401104114_new_objects_for_workload_alerts.php" "20140324104544_change_game_score_field_type.php" "20140221141309_new_fields_for_game_and_training_session_workloads.php" "20140218162222_update_video_clips.php" "20140217150345_add_turnaround_label_to_markers_object.php" "20140213151941_add_custom_prefix_field_to_marker_object.php" "20140206125746_add_injury_notes_association.php" "20140131150714_remove_squad_id_from_athletes.php" "20140129141616_add_marker_type.php" "20140122154519_add_internationalisation.php" "20140120191624_add_timezone_id_to_user_object.php" "20140120184648_add_time_zones.php" "20140117094831_remove_org_references.php" "20140116153451_add_is_private_flag_to_logs.php" "20140115171023_add_users_organisations.php" "20140115124751_add_athlete_many_to_many_objects.php" "20131228114738_add_account_lockout_schema.php" "20131219153625_add_display_name_to_files_object.php" "20131216143034_add_sort_order_to_organisation_training_variables.php" "20131216113100_add_isactive_boolean_to_training_sessions.php" "20131204100144_add_file_reference_to_users_and_organisations.php" "20131129172846_add_support_for_inactive_organisations.php" "20131127142654_remove_sample_table_prod.php" "20131127142308_add_sample_table.php" "20131127135141_remove_sample_table.php" "20131127134514_add_table.php" "20131120014646_create_messages_tables.php" "20131114160913_create_permissions_tables.php" "20131004140905_create_videofiles.php" "20130919121615_add_injury_i_d_to_athlete_object.php" "20130918115855_add_new_alerts_related_fields.php" "20130903102956_add_organisation_team_id_to_marker_object.php" "20130903102149_add_organisation_teams_object.php" "20130828220030_update_alerts_script_logs_table_name.php" "20130828211728_add_support_for_alert_php_script.php" "20130820204824_create_videos_table.php" "20130807121720_add_support_for_related_training_variables.php" "20130807120100_add_thresholds_for_answers.php" "20130807103212_add_thresholds_for_alerts.php" "20130611174528_add_workload_to_athletes_games_object.php" "20130606125228_add_colour_to_session_types.php" "20130530125550_add_session_date_to_prediction_object.php" "20130530110702_remove_session_date_from_predictions.php" "20130527170925_add_marker_i_d_to_predictions.php" "20130517132546_add_competition_field_to_markers_object.php" "20130508191343_make_injury_profile_table_plural.php" "20130424155235_add_org_ids_to_objects.php" "20130417163005_add_inc_mins_field_to_activity_groups.php" "20130417160215_set_resolved_to_default_to_zero.php" "20130415121322_rename_availabilities_table.php" "20130415114808_add_date_to_availability_object.php" "20130415093000_change_score_name_in_games_table.php" "20130413191409_add_game_rpe.php" "20130410173319_update_file_object.php" "20130329150032_fix_game_marker_relationships.php" "20130328104601_change_resolved_field_in_injury_occurrences_to_default_to_zero.php" "20130326233828_add_short_name_to_organisation.php" "20130326211802_change_rel_of_comps_from_orgs_to_squads.php" "20130326193323_fix_game_default_in_markers.php" "20130326192721_create_markers_games_relationship.php" "20130326155917_create_games_markers_relationship.php" "20130326104104_fix_illnesses_created_by_data_type.php" "20130325163654_add_variables_clear_option.php" "20130325145742_add_platform_cols_count.php" "20130325140448_drop_table_field_from_training_variables.php" "20130325110607_rename_variables_table.php" "20130321104831_add_prior_injury_support.php" "20130320220841_add_drop_down_variable_support.php" "20130320214837_add_turnaround_codes_to_markers.php" "20130320212929_fix_activity_groups.php" "20130320211504_add_illnesses_and_availability.php" "20130319133137_add_is_default_field_to_squad.php" "20130317084020_add_fixes_for_data_mapper.php" "20130316122355_alter_alert_types.php" "20130316083938_add_selected_squad_to_users.php" "20130314192805_rename_group_permission_table.php" "20130314190258_fix_session_type_keys.php" "20130314155035_add_o_r_m_support.php" "20130314111926_alter_activity_groups.php" "20130314104753_insert_rabo_direct_pro_twelve.php" "20130314102927_insert_premier_league_teams.php" "20130314101240_insert_variables.php" "20130314094935_insert_variable_types.php" "20130313104220_add_game_data_tables.php" "20130311154329_add_reser_hash_field_to_user_table.php" "20130311154120_add_reser_expire_field_to_user_table.php" "20130311152523_add_sample_base_data.php" "20130311152340_add_body_groups_table.php" "20130311152238_add_salt_field_to_users_table.php" "20130311152049_initial_migration.php" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/" (22158 39447 0 0) "www/" "vendor/" "tools/" "temp/" "sparks/" "readme.md" "phinx.php" "package.json" "node_modules/" "migrations/" "gulpfile.js" "Gemfile.lock" "Gemfile" "features/" "deploy_scripts/" "data/" "composer.phar" "composer.lock" "composer.json" "circle.yml" "ci_2.1.4/" "cache/" "app/" ".rsync_excludes" ".idea/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/libraries/" (22126 48881 0 0) "timeago.php" "simpleimage.php" "s3_utilities.php" "S3.php" "Postmark.php" "postmark/" "Phprules.php" "Phprules/" "phpass/" "parse/" "MY_Image_lib.php" "MY_Form_validation.php" "Mongo_db.php" "kit_statsd_client.php" "kit_permissions.php" "kit_email.php" "kit_chart.php" "kit_aws.php" "kit_auth.php" "index.html" "get_image.php" "fineuploader/" "fenway_variables.php" "fenway_preferences.php" "fenway_data_helper.php" "fenway_api.php" "dompdf_0.6.0/" "datamapper.php" "datadogstatsd.php" "csvreader.php" "CMBase.php" "capsule/" "Cache.php" "analysis.php" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/config/" (22126 48881 0 0) "user_agents.php" "smileys.php" "s3.php" "routes.php" "profiler.php" "postmark.php" "parse.php" "pagination.php" "mongodb.php" "mimes.php" "logs.php" "intercom.php" "index.html" "image_sizes.php" "hooks.php" "foreign_chars.php" "fenway.php" "email.php" "doctypes.php" "datamapper.php" "database.php" "constants.php" "config.php" "chart.php" "cache.php" "aws.php" "autoload.php" "auth.php" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/injuries/" (22074 9862 0 0) "index.php" "../" "./")
+
+ ("/Users/wal/projects/wal/dotfiles/emacs/" (22126 49515 0 0) "wal/" "vendor/" "style.el" "init.el" "ido.last" "games/" "elpa/" "bin/" "backup/" "auto-save-list/" ".gitignore" ".DS_Store" ".#init.el" "../" "./")
+
+ ("/Users/wal/projects/" (22120 39301 0 0) "wal/" "videojs/" "thoughtbot/" "skmetz/" "sinatra/" "SciRuby/" "refinery/" "rails/" "nslocum/" "neo/" "mozilla/" "magicmonty/" "KitmanLabs/" "kaybenleroll/" "jordanhudgens/" "jnunemaker/" "etsy/" "emacs-ess/" "dynamo_json_ruby/" "DublinR/" "clbustos/" "aws/" "api-examples/" "AnkurGel/" "al/" "abhishek77in/" ".idea/" ".DS_Store" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/medinah/" (22111 15429 0 0) "vendor/" "tmp/" "spec/" "README.md" "Rakefile" "public/" "Procfile" "package.json" "node_modules/" "log/" "locale/" "lib/" "gulpfile.js" "Guardfile" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "circle.yml" "Capfile" "bin/" "app/" ".ruby-version" ".rubocop.yml" ".rspec" ".idea/" ".gitignore" ".git/" ".env.local" ".env" ".editorconfig" "../" "./")
+
+ ("/Users/wal/projects/wal/" (22048 8841 0 0) "wal.github.io/" "wal.github.com/" "untitled/" "tag_stats_live/" "sydvicious/" "subs_maker.zip" "subs_maker/" "stonecuttersgolf/" "sportsode_stats/" "smarter_csv_tests/" "smarter_csv/" "scaffold_test/" "resonateOTHER/" "resonate_ralis_4/" "resonate/" "rails_test/" "R-Code/" "pitchfx/" "pitch_fx_parser/" "pitch_fx_downloader/" "mysql2postgres/" "movie_breaker/" "mock_twitter/" "mailer/" "ireland_match_report/" "fitness/" "endline_elite/" "endline/" "dotfiles/" "cloudwatch_graphite/" "cloudwatch_dashboard/" "cloudwatch_csv/" "clontarfhc/" "catapult_parser/" "backfour_team/" "backfour/" "aws-sdk-ruby/" "asyouwish/" ".idea/" ".DS_Store" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/workloads/" (22074 9862 0 0) "timeseries.php" "seasonal.php" "index.php" "athletes_timeseries.php" "athletes.php" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/" (21658 42985 0 0) "views/" "third_party/" "models/" "libraries/" "language/" "index.html" "hooks/" "helpers/" "errors/" "datamapper/" "core/" "controllers/" "config/" ".htaccess" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/" (22110 38217 0 0) "wenger/" "Sports-Science-DashboardOLD/" "Sports-Science-Dashboard-Ember/" "Sports-Science-Dashboard/" "sherlock-old/" "sherlock/" "medinah/" "kitman-statistics-ruby/" "kitman-sanity/" "kitman-s-and-c-api/" "kitman-profiler-dev/" "kitman-profiler-api/" "kitman-profiler/" "kitman-objc/" "kitman-misc/" "kitman-locales/" "kitman-kittbot/" "kitman-dsbot2/" "kitman-devops/" "kitman-dashboards/" "kitman-careers-site/" "kitman-capture/" "kitman-athlete-app-api/" "kitman-analyser-service/" "kitman-analyser/" "kitman-anailis/" "kitman-albert/" "jose/" "gps/" "github_stats/" "fenway-client/" "fenway/" "deployment/" "demo_account_import/" "analyser-runner/" ".DS_Store" "../" "./")
+
+ ("/Users/wal/projects/wal/dotfiles/emacs/vendor/" (22080 32786 0 0) "tutut.jpg" "textmate.el" "task-timer.el" "ruby-mode.el" "ruby-hacks.el" "ruby-electric.el" "ri.el" "php-mode.el" "nxml-mode/" "neotree.el" "magit.el" "js2-mode.el" "journal.el" "git-modes/" "git-commit-mode.el" "find-things-fast.el" "ess-13.09/" "dynamic-fonts.el" "dash-at-point.el" "color-theme-twilight.el" "color-theme-6.6.0/" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/demo_account_import/data/" (22100 27384 0 0) "rocky.csv.txt" "micky.csv.txt" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/demo_account_import/" (22100 16011 0 0) "data/" "../" "./")
+
+ ("/Users/wal/.emacs.d/vendor/" (22080 32786 0 0) "tutut.jpg" "textmate.el" "task-timer.el" "ruby-mode.el" "ruby-hacks.el" "ruby-electric.el" "ri.el" "php-mode.el" "nxml-mode/" "neotree.el" "magit.el" "js2-mode.el" "journal.el" "git-modes/" "git-commit-mode.el" "find-things-fast.el" "ess-13.09/" "dynamic-fonts.el" "dash-at-point.el" "color-theme-twilight.el" "color-theme-6.6.0/" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-analyser/RiskAnalyserCode/" (21777 20621 0 0) "UpdateAlerts.php" "UpdateAlerts/" "update.sh" "tmp/" "sentry.R" "sentry-client" "Sentry/" "safeLength.R" "S3.php" "run.R" "risk_analyser.sh" "Multivariate.R" "multiv.c" "LME.R" "dbupdate.sh" "createSO.sh" "controlChart.R" "bin/" "ARIMA.R" ".s3cfg" ".Rhistory" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/wal/projects/wal/resonate_ralis_4/config/initializers/" (21922 58950 0 0) "wrap_parameters.rb" "session_store.rb" "mime_types.rb" "inflections.rb" "filter_parameter_logging.rb" "cookies_serializer.rb" "backtrace_silencers.rb" "assets.rb" "../" "./")
+
+ ("/Users/wal/projects/wal/resonate/config/" (21922 54146 0 0) "s3.yml" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "../" "./")
+
+ ("/Users/wal/www/kitman-profiler/app/views/athletes/" (22057 3756 0 0) "workloads_timeseries.php" "workloads.php" "training_variables.php" "show.php" "screenings.php" "reports_csv.php" "reports.php" "questionnaires.php" "medical.php" "manage.php" "issue_create_new.php" "index.php" "edit_user.php" "edit.php" "create_new.php" "cmj.php" "availability_edit.php" "availability.php" "_squad_select_form.php" "_overview.php" "_nav.php" "_controls.php" "../" "./")
+
+ ("/Users/wal/tmp/d1/" (22034 36938 0 0) "d2.txt" "d1.txt" "../" "./")
+
+ ("/Users/wal/medinah_config/" (22038 26372 0 0) "secrets.yml" "database.yml" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/kitman-profiler/app/views/analysis/" (22074 9862 0 0) "squadinjuryoccurrences.php" "squad_injury_occurrences.php" "squad_injury_classifications.php" "injuries_report.php" "injuries.php" "index.php" "athletes_report.php" "athletes.php" "_most_common_injuries.php" "_injury_severity.php" "../" "./")
+
+ ("/Users/wal/Desktop/icoda/" (22049 30985 0 0) "Q4.xml" "Q4 n.xml" "Q3 n.xml" "Q2 h.xml" "Q1 n.xml" "../" "./")
+
+ ("/Users/wal/projects/KitmanLabs/fenway/" (22044 3500 0 0) "tmp/" "spec/" "README.md" "Rakefile" "public/" "log/" "Gemfile.lock" "Gemfile" "deploy/" "db/" "config.ru" "config/" "circle.yml" "Capfile" "bin/" "app/" ".ruby-version" ".rspec" ".idea/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/ardit/Kitman Labs/RugbyTeamGenerator/app/src/main/java/gr/akuqo/rugbyteamgenerator/core/data/" (22038 33532 0 0) "Squad.java" "Athlete.java" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/ardit/Kitman Labs/RugbyTeamGenerator/app/src/main/java/gr/akuqo/rugbyteamgenerator/core/" (22038 33532 0 0) "RugbyTeamGenerator.java" "io/" "data/" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/ardit/Kitman Labs/RugbyTeamGenerator/app/src/test/" (22038 33532 0 0) "java/" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/ardit/Kitman Labs/RugbyTeamGenerator/app/src/" (22038 33532 0 0) "test/" "main/" "androidTest/" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/ardit/Kitman Labs/RugbyTeamGenerator/app/src/androidTest/" (22038 33532 0 0) "java/" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/ardit/Kitman Labs/RugbyTeamGenerator/app/src/androidTest/java/" (22038 33532 0 0) "gr/" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/ardit/Kitman Labs/RugbyTeamGenerator/app/src/androidTest/java/gr/" (22038 33532 0 0) "akuqo/" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/ardit/Kitman Labs/RugbyTeamGenerator/app/src/androidTest/java/gr/akuqo/" (22038 33532 0 0) "rugbyteamgenerator/" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/ardit/Kitman Labs/RugbyTeamGenerator/app/src/androidTest/java/gr/akuqo/rugbyteamgenerator/" (22038 33532 0 0) "ApplicationTest.java" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/ardit/Kitman Labs/" (22038 33626 0 0) "SortedUniqueArray/" "RugbyTeamGenerator/" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/ardit/" (22044 46046 0 0) "Kitman Labs/" ".DS_Store" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/" (22044 46040 0 0) "cesar_marrades/" "ardit/" ".DS_Store" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/cesar_marrades/KitmanLabs/Kitman.Questions/" (22044 45319 0 0) "packages/" "Kitman.Questions.v12.suo" "Kitman.Questions.Tests/" "Kitman.Questions.sln" "Kitman.Questions/" ".DS_Store" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/cesar_marrades/KitmanLabs/Kitman.Questions/Kitman.Questions/" (22044 45332 0 0) "SquadTest/" "Properties/" "packages.config" "obj/" "Kitman.Questions.csproj" "bin/" "ArrayTest/" ".DS_Store" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/cesar_marrades/KitmanLabs/Kitman.Questions/Kitman.Questions/SquadTest/" (22038 19378 0 0) "SquadBuilder.cs" "PlayerPositionTypeConverter.cs" "FormationProvider.cs" "Entity/" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/cesar_marrades/KitmanLabs/Kitman.Questions/Kitman.Questions/ArrayTest/" (22038 19388 0 0) "ArrayDeduplicateSorting.cs" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/cesar_marrades/KitmanLabs/" (22044 45314 0 0) "ReadMe- CMarrades.docx" "Kitman.Questions/" ".DS_Store" "../" "./")
+
+ ("/Users/wal/Desktop/email_screes/cesar_marrades/" (22044 45210 0 0) "KitmanLabs/" ".DS_Store" "../" "./")
+
+ ("/Users/wal/Downloads/KitmanLabs/Kitman.Questions/Kitman.Questions/ArrayTest/" (22038 33761 0 0) "ArrayDeduplicateSorting.cs" "../" "./")
+
+ ("/Users/wal/projects/wal/scaffold_test/app/controllers/" (21741 5041 0 0) "moolahs_controller.rb" "concerns/" "application_controller.rb" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
